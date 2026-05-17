@@ -13,7 +13,7 @@
     "@google/generative-ai": "^0.21.0",
     "@sparticuz/chromium": "^133.0.0",
     "@vercel/node": "^5.1.11",
-    "axios": "^1.2.0",
+    "axios": "^1.16.1",
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.0.0",
     "mongoose": "^6.8.0",
